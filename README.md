@@ -1,3 +1,10 @@
+<img width="1246" height="2078" alt="IMG_4406" src="https://github.com/user-attachments/assets/2bc28da4-d740-4665-b430-1a9fa9f9444c" />
+<img width="1246" height="2078" alt="IMG_4407" src="https://github.com/user-attachments/assets/3999b29c-0c23-48ff-921e-c36a656ab0b3" />
+<img width="1246" height="2078" alt="IMG_4408" src="https://github.com/user-attachments/assets/bbd2fdaa-22e0-4827-af92-6965baee8982" />
+<img width="1246" height="2078" alt="IMG_4409" src="https://github.com/user-attachments/assets/7f968f4a-af4e-47ce-814d-cbcd9deaabc2" />
+<img width="1246" height="2078" alt="IMG_4410" src="https://github.com/user-attachments/assets/dd6b40bf-cd2c-4a10-b5c7-c24c7392a91e" />
+
+
 # Kitty Screen
 
 [中文说明](README.zh.md) · [GitHub](https://github.com/elliothux/kitty-screen) · [Download](https://github.com/elliothux/kitty-screen/releases)
